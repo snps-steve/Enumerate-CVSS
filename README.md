@@ -69,7 +69,7 @@ BASEURL=https://blackduck.synopsys.com<br>
 API_TOKEN=[REDACTED]<br>
 project_name=testVMDK<br>
 version_name=1.0<br>
-<br>
+
 ### License
 This project is licensed under the MIT License.
 
