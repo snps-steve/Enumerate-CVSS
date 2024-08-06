@@ -57,7 +57,7 @@ Apache Portable Runtime,BDSA-2023-0190,7.5,9.8<br>
 Apache Portable Runtime,CVE-2009-2699,5.0,7.5<br>
 Apache Portable Runtime,BDSA-2023-0285,5.0,7.5<br>
 Apache Portable Runtime,CVE-2017-12618,1.9,4.7<br>
-<br><br>
+<br>
 The output can also be saved as a Json file.<br> 
 
 ### Configuration
