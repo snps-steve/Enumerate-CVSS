@@ -49,17 +49,17 @@ python enum_cvss.py
 ### Sample Output
 When saved to CSV:
 
-Component Name,Vulnerability ID,CVSS 2,CVSS 3
-Apache Portable Runtime,BDSA-2021-2583,5.0,7.5
-Apache Portable Runtime,BDSA-2023-0191,7.5,9.8
-Apache Portable Runtime,CVE-2021-35940,3.6,7.1
-Apache Portable Runtime,BDSA-2023-0190,7.5,9.8
-Apache Portable Runtime,CVE-2009-2699,5.0,7.5
-Apache Portable Runtime,BDSA-2023-0285,5.0,7.5
-Apache Portable Runtime,CVE-2017-12618,1.9,4.7
-
-The output can also be saved as a Json file. 
-
+Component Name,Vulnerability ID,CVSS 2,CVSS 3<br>
+Apache Portable Runtime,BDSA-2021-2583,5.0,7.5<br>
+Apache Portable Runtime,BDSA-2023-0191,7.5,9.8<br>
+Apache Portable Runtime,CVE-2021-35940,3.6,7.1<br>
+Apache Portable Runtime,BDSA-2023-0190,7.5,9.8<br>
+Apache Portable Runtime,CVE-2009-2699,5.0,7.5<br>
+Apache Portable Runtime,BDSA-2023-0285,5.0,7.5<br>
+Apache Portable Runtime,CVE-2017-12618,1.9,4.7<br>
+<br><br>
+The output can also be saved as a Json file.<br> 
+<br>
 ### Configuration
 During the first execution of the script, the user will be prompted for the BASEURL, API_TOKEN, project, and project version. These fields will then be stored in a .env file in the project folder. If a .env file is detected, the script will prompt you to either use the existing BASEURL, API_TOKEN, project, and project version as 'defaults' or you can enter different information.
 <br><br>
