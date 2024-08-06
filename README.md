@@ -10,7 +10,7 @@ The script provides options to set or confirm project details and API configurat
 
 - Fetch Vulnerabilities: Retrieves vulnerable components from a specified Black Duck project and version using the Black Duck Server's APIs.
 - Detailed Output: Provides detailed output of vulnerabilities, including component name, version, CVSS 2 and CVSS 3 scores.
-- Export Results: Allows exporting the results to CSV or JSON format. The script will prompt the user at the end of execution to ask if exporting is necessary (Yes/No) and if so, what format (csv/json.
+- Export Results: Allows exporting the results to CSV or JSON format. The script will prompt the user at the end of execution to ask if exporting is necessary (Yes/No) and if so, what format (csv/json).
 
 ## Requirements
 
