@@ -59,7 +59,7 @@ Apache Portable Runtime,BDSA-2023-0285,5.0,7.5<br>
 Apache Portable Runtime,CVE-2017-12618,1.9,4.7<br>
 <br><br>
 The output can also be saved as a Json file.<br> 
-<br>
+
 ### Configuration
 During the first execution of the script, the user will be prompted for the BASEURL, API_TOKEN, project, and project version. These fields will then be stored in a .env file in the project folder. If a .env file is detected, the script will prompt you to either use the existing BASEURL, API_TOKEN, project, and project version as 'defaults' or you can enter different information.
 <br><br>
